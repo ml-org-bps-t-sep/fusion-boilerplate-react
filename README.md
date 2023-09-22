@@ -1,2 +1,1 @@
-# fusion-boilerplate-react
-In this boilerplate we have added several functions to ensure any developer can get started by looking at the code examples. Therefore we decided to integrate three functions: Send Asset, Create Asset and Get Address By Notation. 
+5b6aa07662fe2473435e14f74bf6903b7d0ab1b7
